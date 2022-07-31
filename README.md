@@ -1,6 +1,6 @@
 # wineclaimer
 
-Automate claiming and selling VINTAGE tokens from the Winemaker P2E game.
+Automate claiming and selling VINTAGE tokens from the [Winemaker P2E game.](https://winemaker.grapefinance.app)
 
 ## Requirements
 - An internet connection
