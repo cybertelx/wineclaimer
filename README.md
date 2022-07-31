@@ -2,6 +2,10 @@
 
 Automate claiming and selling VINTAGE tokens from the Winemaker P2E game.
 
+## Requirements
+- An internet connection
+- Node.js (only tested with 16.14.0, [you should use fnm to manage node versions it's really cool](https://github.com/Schniz/fnm))
+
 ## Initial setup
 
 1. Rename `.env.EXAMPLE` to `.env`, add your private key in `.env`.
